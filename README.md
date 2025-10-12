@@ -11,11 +11,11 @@ Check out my resume: https://leedoor.github.io/resume.github.io/
 <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,docker" />
 
 ### **Libraries & Tools:**
-- ⚡ **Boost.Asio** - Network programming
-- ✅ **Google Test** - Unit testing
-- 🗃 **SQL** - Database management
+- ⚡ **Boost.Asio** - Network programming,
+- ✅ **Google Test** - Unit testing,
+- 🗃 **SQL** - Database management.
 
 ### 🖥 Development Setup
 <img src="https://skillicons.dev/icons?i=linux,neovim" />
 
-Try **Neovim** with [my custom C++ configuration](https://github.com/LeeDoor/neovim-config)
+Try **Neovim** with [my custom C++ configuration](https://github.com/LeeDoor/neovim-config).
