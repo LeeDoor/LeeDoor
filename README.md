@@ -34,3 +34,6 @@ Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 📃
   <img src="https://img.shields.io/badge/🚀 Try My Neovim Setup-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </a>
 </div>
+<div align="center">
+<sub><em>ty for <a href="https://github.com/tandpfun/skill-icons">skill-icons</a> 🤍</em></sub>
+</div>
