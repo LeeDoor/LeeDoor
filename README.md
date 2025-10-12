@@ -21,9 +21,9 @@ Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 📃
 
 ## <div align="center">📚 Libraries & Tools</div>
 <div align="center" style="text-align: left; display: inline-block;">
-• <strong>GCC</strong> • <strong>GDB</strong> • <strong>CMake</strong><br>
-• <strong>Boost.Asio</strong> • <strong>Google Test</strong> • <strong>Catch2</strong> • <strong>spdlog</strong><br>
-• <strong>Conan</strong> • <strong>Vcpkg</strong> • <strong>Docker</strong> • <strong>SQL</strong>
+<strong>GCC</strong> • <strong>GDB</strong> • <strong>CMake</strong><br>
+<strong>Boost.Asio</strong> • <strong>Google Test</strong> • <strong>Catch2</strong> • <strong>spdlog</strong><br>
+<strong>Conan</strong> • <strong>Vcpkg</strong> • <strong>Docker</strong> • <strong>SQL</strong>
 </div>
 
 ## <div align="center">🖥 Development Setup</div>
