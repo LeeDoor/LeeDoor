@@ -9,16 +9,6 @@ I'm an 18 y.o. **Computer Science Engineering** student🎓
 
 I've been passionate about **C++ programming** for 3 years within my [pet projects](https://github.com/LeeDoor?tab=repositories)
 
-## ⚡️ Quick Facts
-
-- 🔭 I'm currently working on **C++ systems programming**
-- 🛠 I enjoy working with:
-  - 🌐 **Web Servers & Network Applications**
-  - 📁 **Binary File Editors & Processing**
-  - 📡 **Network File Transfer Systems**
-- 💻 **3 years** of C++ experience
-- 🎯 Focused on **high-performance applications**
-
 ## 🛠 Skill Set
 
 ### **Languages & Frameworks:**
