@@ -1,9 +1,9 @@
 # <div align="center">Hello, I'm Leonid Samoshenko 🤝</div>
 
 <div align="center">
-I'm a <strong>Computer Science Engineering</strong> student in DonSTU 🎓.
+I'm a <strong>Computer Science Engineering</strong> student in DonSTU 🎓
 <br>
-I've been coding on <strong>C++</strong> since 2022 within my <a href="https://github.com/LeeDoor?tab=repositories">pet projects</a>.
+I've been coding on <strong>C++</strong> since 2022 within my <a href="https://github.com/LeeDoor?tab=repositories">pet projects</a>
 <br>
 📄 Check out my resume: https://leedoor.github.io/resume.github.io/
 </div>
