@@ -3,9 +3,9 @@
 <div align="center">
 I'm a <strong>Computer Science Engineering</strong> student in DonSTU 🎓
 <br>
-I've been coding on <strong>C++</strong> since 2022 within my <a href="https://github.com/LeeDoor?tab=repositories">pet projects</a>
+I've been coding on <strong>C++</strong> since 2022 within my <a href="https://github.com/LeeDoor?tab=repositories">pet projects</a> 🤓
 <br>
-📄 Check out my resume: https://leedoor.github.io/resume.github.io/
+Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 📃
 </div>
 
 ## <div align="center">📍 Contacts</div>
@@ -21,9 +21,9 @@ I've been coding on <strong>C++</strong> since 2022 within my <a href="https://g
 
 ## <div align="center">📚 Libraries & Tools</div>
 <div align="center" style="text-align: left; display: inline-block;">
-• ⚡ <strong>Boost.Asio</strong> - Network programming<br>
-• ✅ <strong>Google Test</strong> - Unit testing<br>
-• 🗃 <strong>SQL</strong> - Database management
+• <strong>GCC</strong> • <strong>GDB</strong> • <strong>CMake</strong><br>
+• <strong>Boost.Asio</strong> • <strong>Google Test</strong> • <strong>Catch2</strong> • <strong>spdlog</strong><br>
+• <strong>Conan</strong> • <strong>Vcpkg</strong> • <strong>Docker</strong> • <strong>SQL</strong>
 </div>
 
 ## <div align="center">🖥 Development Setup</div>
