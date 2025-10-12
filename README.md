@@ -20,18 +20,18 @@ I've been passionate about **C++ programming** for **3 years** and love building
 - 💻 **3 years** of C++ experience
 - 🎯 Focused on **high-performance applications**
 
-### 🛠 Skill Set
+## 🛠 Skill Set
 
-#### **Languages & Frameworks:**
+### **Languages & Frameworks:**
 <br>
 <img src="https://skillicons.dev/icons?i=cpp,linux,qt,cmake,docker" />
 
-#### **Libraries & Tools:**
+### **Libraries & Tools:**
 - ⚡ **Boost.Asio** - Network programming
 - ✅ **Google Test** - Unit testing
 - 🗃 **SQL** - Database management
 
-### 🖥 Development Setup
+## 🖥 Development Setup
 <img src="https://skillicons.dev/icons?i=linux,neovim" />
 
 **Neovim** with [my custom C++ configuration](https://github.com/LeeDoor/neovim-config)
