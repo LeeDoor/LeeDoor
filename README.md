@@ -16,7 +16,7 @@ Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 📃
 
 ## <div align="center">🛠 Languages & Frameworks</div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,qt,cmake,docker" />
+<img src="https://skillicons.dev/icons?i=c,cpp,qt,cmake" />
 </div>
 
 ## <div align="center">📚 Libraries & Tools</div>
