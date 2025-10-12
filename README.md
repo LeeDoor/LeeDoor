@@ -1,5 +1,5 @@
 # Hello, I'm Leonid Samoshenko 🤝
-I'm an 18 y.o. **Computer Science Engineering** student🎓. I've been coding on **C++** for 3 years within my [pet projects](https://github.com/LeeDoor?tab=repositories).
+I'm an 18 y.o. **Computer Science Engineering** student🎓. I've been coding on **C++** since 2022 within my [pet projects](https://github.com/LeeDoor?tab=repositories).
 
 ### 📍 Contacts
 **Email:** samoshenkoleonid@yandex.ru  
