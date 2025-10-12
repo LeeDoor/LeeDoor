@@ -1,14 +1,15 @@
 # Hello, I'm Leonid Samoshenko 🤝
 
-### 📍 Find me at
-[![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samoshenkoleonid@yandex.ru)](mailto:samoshenkoleonid@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/LeeDoor38)](https://t.me/LeeDoor38)
+### 📍 Contacts
+**Email:** samoshenkoleonid@yandex.ru  
+**Telegram:** [@LeeDoor38](https://t.me/LeeDoor38)
+
 ### 👨‍💻 About Me
-I'm an **18-year-old Computer Science Engineering student**🎓
+I'm an 18 y.o. **Computer Science Engineering** student🎓
 
-I've been passionate about **C++ programming** for **3 years** and love building efficient systems and network applications
+I've been passionate about **C++ programming** for 3 years within my [pet projects](https://github.com/LeeDoor?tab=repositories)
 
-## ⚡️ Skill Set
+## ⚡️ Quick Facts
 
 - 🔭 I'm currently working on **C++ systems programming**
 - 🛠 I enjoy working with:
@@ -22,7 +23,7 @@ I've been passionate about **C++ programming** for **3 years** and love building
 
 ### **Languages & Frameworks:**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,linux,qt,cmake,docker" />
+<img src="https://skillicons.dev/icons?i=cpp,qt,cmake,docker" />
 
 ### **Libraries & Tools:**
 - ⚡ **Boost.Asio** - Network programming
@@ -32,12 +33,12 @@ I've been passionate about **C++ programming** for **3 years** and love building
 ## 🖥 Development Setup
 <img src="https://skillicons.dev/icons?i=linux,neovim" />
 
-**Neovim** with [my custom C++ configuration](https://github.com/LeeDoor/neovim-config)
+Try **Neovim** with [my custom C++ configuration](https://github.com/LeeDoor/neovim-config)
 
 ---
 
 <div align="center">
   
-**Building efficient systems with C++** 🚀
+**Performance is a key** 🚀
 
 </div>
