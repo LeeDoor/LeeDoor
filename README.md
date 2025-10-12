@@ -22,11 +22,11 @@ I've been passionate about **C++ programming** for **3 years** and love building
 
 ### 🛠 Skill Set
 
-**Languages & Frameworks:**
+#### **Languages & Frameworks:**
 <br>
 <img src="https://skillicons.dev/icons?i=cpp,linux,qt,cmake,docker" />
 
-**Libraries & Tools:**
+#### **Libraries & Tools:**
 - ⚡ **Boost.Asio** - Network programming
 - ✅ **Google Test** - Unit testing
 - 🗃 **SQL** - Database management
