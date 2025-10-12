@@ -1,12 +1,12 @@
 # Hello, I'm Leonid Samoshenko 🤝
-I'm an 18 y.o. **Computer Science Engineering** student🎓. I've been coding on **C++** since 2022 within my [pet projects](https://github.com/LeeDoor?tab=repositories).
+I'm a **Computer Science Engineering** student in DonSTU🎓. I've been coding on **C++** since 2022 within my [pet projects](https://github.com/LeeDoor?tab=repositories).
+Check out my resume: https://leedoor.github.io/resume.github.io/
 
 ### 📍 Contacts
 **Email:** samoshenkoleonid@yandex.ru  
 **Telegram:** [@LeeDoor38](https://t.me/LeeDoor38)
 
 ### 🛠 **Languages & Frameworks:**
-<br>
 <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,docker" />
 
 ### **Libraries & Tools:**
