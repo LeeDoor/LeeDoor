@@ -1,5 +1,6 @@
 # Hello, I'm Leonid Samoshenko 🤝
 I'm a **Computer Science Engineering** student in DonSTU🎓. I've been coding on **C++** since 2022 within my [pet projects](https://github.com/LeeDoor?tab=repositories).
+<br>
 Check out my resume: https://leedoor.github.io/resume.github.io/
 
 ### 📍 Contacts
