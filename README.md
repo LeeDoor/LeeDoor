@@ -5,7 +5,7 @@ I'm a <strong>Computer Science Engineering</strong> student in DonSTU 🎓
 <br>
 I've been coding on <strong>C++</strong> since 2022 within my <a href="https://github.com/LeeDoor?tab=repositories">pet projects</a> 🤓
 <br>
-Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 📃
+Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 💼
 </div>
 
 ## <div align="center">📍 Contacts</div>
