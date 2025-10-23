@@ -29,10 +29,6 @@ Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 💼
 ## <div align="center">🖥 Development Setup</div>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,neovim,bash" />
-<br><br>
-<a href="https://github.com/LeeDoor/neovim-config">
-  <img src="https://img.shields.io/badge/🚀 Try My Neovim Setup-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-</a>
 </div>
 
 ## <div align="center">🚀 My Projects</div>
