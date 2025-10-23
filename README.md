@@ -38,14 +38,11 @@ Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 💼
 ## <div align="center">🚀 My Projects</div>
 
 <div align="center">
-<table>
-<tr>
-<td width="150" align="center">
-<img src="/img/p2ptransfer.png" width="100" />
-</td>
-<td>
-
+  
 ### P2P File Transfer
+  
+<img src="/p2ptransfer_dark.png" width="100" />
+  
 A high-speed file sharing application for local networks that leverages maximum switch throughput. Built with MVP architecture for clear separation between file transfer logic and UI, supporting both console and GUI interfaces.
 
 **Tech Stack:** C++, Qt6, Boost.Asio, Google Test, Doxygen, CMake  
@@ -53,14 +50,8 @@ A high-speed file sharing application for local networks that leverages maximum 
 
 [**View on GitHub →**](https://github.com/LeeDoor/p2ptransfer)
 
-</td>
-</tr>
-<tr>
-<td width="150" align="center">
 <img src="/img/game_webserver" width="100" />
-</td>
-<td>
-
+  
 ### Game Web Server
 A REST API web server for browser-based games, running on Linux. Features asynchronous network handling, multi-threading, and integration with PostgreSQL and Redis databases.
 
@@ -69,7 +60,4 @@ A REST API web server for browser-based games, running on Linux. Features asynch
 
 [**View on GitHub →**](https://github.com/LeeDoor/game_webserver)
 
-</td>
-</tr>
-</table>
 </div>
