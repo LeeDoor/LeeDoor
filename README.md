@@ -45,11 +45,12 @@ Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 💼
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/p2ptransfer_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="/p2ptransfer_light.png">
-    <img src="/p2ptransfer_dark.png" width=80%>
+    <img src="/p2ptransfer_dark.png" width=50%>
   </picture>
 </a>
 
-A high-speed file sharing application for local networks that leverages maximum switch throughput. Built with MVP architecture for clear separation between file transfer logic and UI, supporting both console and GUI interfaces.
+A high-speed file sharing application for local networks that leverages maximum switch throughput. <br> 
+Built with MVP architecture for clear separation between file transfer logic and UI, supporting both console and GUI interfaces.
 
 **Tech Stack:** C++, Qt6, Boost.Asio, Google Test, Doxygen, CMake  
 **Features:** Cross-platform (Linux/Windows), comprehensive documentation, unit testing with mocks
@@ -64,11 +65,12 @@ A high-speed file sharing application for local networks that leverages maximum 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/game_webserver_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="/game_webserver_light.png">
-    <img src="/game_webserver_dark.png" width=80%>
+    <img src="/game_webserver_dark.png" width=50%>
   </picture>
 </a>
 
-A REST API web server for browser-based games, running on Linux. Features asynchronous network handling, multi-threading, and integration with PostgreSQL and Redis databases.
+A REST API web server for browser-based games, running on Linux. <br>
+Features asynchronous network handling, multi-threading, and integration with PostgreSQL and Redis databases.
 
 **Tech Stack:** C++, Boost (Asio/Beast), nlohmann_json, spdlog, Catch2, Docker, PostgreSQL, Redis  
 **Features:** Docker deployment, database integration, comprehensive testing, TypeScript frontend
