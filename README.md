@@ -45,7 +45,7 @@ Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 💼
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/p2ptransfer_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="/p2ptransfer_light.png">
-    <img src="/p2ptransfer_dark.png">
+    <img src="/p2ptransfer_dark.png" width=80%>
   </picture>
 </a>
 
@@ -64,7 +64,7 @@ A high-speed file sharing application for local networks that leverages maximum 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/game_webserver_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="/game_webserver_light.png">
-    <img src="/game_webserver_dark.png">
+    <img src="/game_webserver_dark.png" width=80%>
   </picture>
 </a>
 
