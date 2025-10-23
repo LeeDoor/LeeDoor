@@ -41,8 +41,12 @@ Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 💼
   
 ### P2P File Transfer
   
-<img src="/p2ptransfer_dark.png" width="100" />
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/p2ptransfer_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/p2ptransfer_light.png">
+  <img src="/p2ptransfer_dark.png">
+</picture>
+
 A high-speed file sharing application for local networks that leverages maximum switch throughput. Built with MVP architecture for clear separation between file transfer logic and UI, supporting both console and GUI interfaces.
 
 **Tech Stack:** C++, Qt6, Boost.Asio, Google Test, Doxygen, CMake  
