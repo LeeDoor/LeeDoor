@@ -1,4 +1,4 @@
-# <div align="center">Hello, I'm Leonid Samoshenko 🤝</div>
+# <div align="center">Hello, I'm Leonid Samoshenko 🤙</div>
 
 <div align="center">
 I'm a <strong>Computer Science Engineering</strong> student in DonSTU 🎓
