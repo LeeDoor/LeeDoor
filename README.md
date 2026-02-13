@@ -58,12 +58,12 @@ Features asynchronous network handling, multi-threading, and integration with Po
 
 </div>
 
-## <div align="center">🛠 Languages & Frameworks</div>
+---
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,qt,cmake" />
 </div>
 
-## <div align="center">📚 Libraries & Tools</div>
 <div align="center" style="text-align: left; display: inline-block;">
 <strong>GCC</strong> • <strong>GDB</strong> • <strong>CMake</strong><br>
 <strong>Boost.Asio</strong> • <strong>Google Test</strong> • <strong>Catch2</strong> • <strong>spdlog</strong><br>
