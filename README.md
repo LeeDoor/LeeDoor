@@ -1,20 +1,20 @@
 # <div align="center">Hello, I'm Leonid Samoshenko 🤙</div>
 
 <div align="center">
-I'm a <strong>Computer Science Engineering</strong> student in DonSTU 🎓
+<strong>Computer Science Engineering</strong> in <b>DonSTU</b>
 <br>
-I've been coding on <strong>C++</strong> since 2022 within my <a href="https://github.com/LeeDoor?tab=repositories">pet projects</a> 🤓
+<strong>C++</strong> <a href="https://github.com/LeeDoor?tab=repositories">PET PROJECTS</a>
 <br>
-Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 💼
+<b>RESUME</b>: https://leedoor.github.io/resume.github.io/
 </div>
 
-## <div align="center">📍 Contacts</div>
+## <div align="center">Contacts</div>
 <div align="center">
 <strong>Email:</strong> samoshenkoleonid@yandex.ru<br>
 <strong>Telegram:</strong> <a href="https://t.me/LeeDoor38">@LeeDoor38</a>
 </div>
 
-## <div align="center">🚀 My Projects</div>
+## <div align="center">My Projects</div>
 
 <div align="center">
   
@@ -31,8 +31,8 @@ Check out my <b>resume</b>: https://leedoor.github.io/resume.github.io/ 💼
 A high-speed file sharing application for local networks that leverages maximum switch throughput. <br> 
 Built with MVP architecture for clear separation between file transfer logic and UI, supporting both console and GUI interfaces.
 
-**Tech Stack:** C++, Qt6, Boost.Asio, Google Test, Doxygen, CMake  
-**Features:** Cross-platform (Linux/Windows), comprehensive documentation, unit testing with mocks
+C++, Qt6, Boost.Asio, Google Test, Doxygen, CMake  
+Cross-platform (Linux/Windows), comprehensive documentation, unit testing with mocks
 
 [**View on GitHub →**](https://github.com/LeeDoor/p2ptransfer)
 
@@ -51,8 +51,8 @@ Built with MVP architecture for clear separation between file transfer logic and
 A REST API web server for browser-based games, running on Linux. <br>
 Features asynchronous network handling, multi-threading, and integration with PostgreSQL and Redis databases.
 
-**Tech Stack:** C++, Boost (Asio/Beast), nlohmann_json, spdlog, Catch2, Docker, PostgreSQL, Redis  
-**Features:** Docker deployment, database integration, comprehensive testing, TypeScript frontend
+C++, Boost (Asio/Beast), nlohmann_json, spdlog, Catch2, Docker, PostgreSQL, Redis  
+Docker deployment, database integration, comprehensive testing, TypeScript frontend
 
 [**View on GitHub →**](https://github.com/LeeDoor/game_webserver)
 
