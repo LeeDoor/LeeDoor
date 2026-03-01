@@ -2,16 +2,10 @@
 
 <div align="center">
 <strong>Computer Science Engineering</strong> in <b>DonSTU</b>
-<br>
-<strong>C++</strong> <a href="https://github.com/LeeDoor?tab=repositories">PET PROJECTS</a>
-<br>
-<b>RESUME</b>: https://leedoor.github.io/resume.github.io/
-</div>
-
-## <div align="center">Contacts</div>
-<div align="center">
-<strong>Email:</strong> samoshenkoleonid@yandex.ru<br>
-<strong>Telegram:</strong> <a href="https://t.me/LeeDoor38">@LeeDoor38</a>
+<h3><strong>C++</strong> <a href="https://github.com/LeeDoor?tab=repositories">PET PROJECTS</a></h3>
+<h3><b>RESUME</b>: https://leedoor.github.io/resume.github.io/</h3>
+<h3><strong>Email:</strong> samoshenkoleonid@yandex.ru</h3>
+<h3><strong>Telegram:</strong> <a href="https://t.me/LeeDoor38">@LeeDoor38</a></h3>
 </div>
 
 ## <div align="center">My Projects</div>
