@@ -3,7 +3,7 @@
 <div align="center">
 <strong>Computer Science Engineering</strong> in <b>DonSTU</b>
 <h3><strong>C++</strong> <a href="https://github.com/LeeDoor?tab=repositories">PET PROJECTS</a></h3>
-<h3><b>RESUME</b>: https://leedoor.github.io/resume.github.io/Самощенко Леонид Николаевич.pdf/</h3>
+<h3><a href="https://leedoor.github.io/resume.github.io/Самощенко Леонид Николаевич.pdf">Resume</a></h3>
 <h3><strong>Email:</strong> samoshenkoleonid@yandex.ru</h3>
 <h3><strong>Telegram:</strong> <a href="https://t.me/LeeDoor38">@LeeDoor38</a></h3>
 </div>
